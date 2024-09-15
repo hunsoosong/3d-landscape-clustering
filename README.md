@@ -1,4 +1,4 @@
-# 3d-landscape-clustering
+# 3D-Landscape-Clustering (3LC)
 
 ## Reshaping Urban Landscape Factorization through 3D Landscape Clustering
 
