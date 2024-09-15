@@ -1,6 +1,6 @@
 # 3d-landscape-clustering
 
-# Reshaping Urban Landscape Factorization through 3D Landscape Clustering
+## Reshaping Urban Landscape Factorization through 3D Landscape Clustering
 
 As urban populations continue to grow, managing urban heat and its environmental impacts becomes increasingly critical. Traditional methods for analyzing urban temperature dynamics often fail to capture the complexity of urban landscapes. Our research introduces the 3D Landscape Clustering (3LC) framework, a novel tool designed to enhance the analysis of urban temperature dynamics by factoring in detailed 3D landscape variables.
 
