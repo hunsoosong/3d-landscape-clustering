@@ -9,5 +9,4 @@ The 3LC framework clusters urban landscapes into homogeneous groups using high-r
 **Stay tuned for the release of the code and datasets associated with this research, which will be available soon.**
 
 For more details, please refer to the full paper:
-- *Song, H., Cervini, G., Shreevastava, A., & Jung, J. (2024). Reshaping Urban Landscape Factorization through 3D Landscape Clustering for Urban Temperature Studies. Sustainable Cities and Society, 115, 105809.*
-
+- [*Song, H., Cervini, G., Shreevastava, A., & Jung, J. (2024). Reshaping Urban Landscape Factorization through 3D Landscape Clustering for Urban Temperature Studies. Sustainable Cities and Society, 115, 105809.*](https://www.sciencedirect.com/science/article/pii/S2210670724006334)
